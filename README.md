@@ -32,6 +32,13 @@ To develop a cross-platform application with a centralized backend that provides
   - **Web:** HTML, JavaScript, CSS, Bootstrap
   - **iOS:** Swift
   - **Windows and Linux:** Cross-platform frameworks
+ 
+## Repositories
+
+- **Backend Repository**: [Node.js & Express](https://github.com/theVedu/BookBOx-Backend.git)
+- **Web React Frontend**: [ReactJS Frontend](https://github.com/theVedu/BookBOx-Web.git)
+- **Android Repository**: [Android App](https://github.com/theVedu/BookBOx-Android.git)
+
 
 ## Database Structure
 
